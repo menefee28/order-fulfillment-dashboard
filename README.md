@@ -28,7 +28,7 @@ These insights helped guide actionable recommendations around inventory planning
 Before building the dashboard, I used SQL to explore, validate, and summarize the dataset.  
 This ensured the Excel calculations and KPIs aligned with accurate backend logic.
 
-The `order_fulfillment_analysis.sql` script includes:
+The order_fulfillment_analysis.sql script includes:
 
 ### Core Metrics
 - Total order volume by region  
@@ -74,5 +74,6 @@ Using SQL allowed me to:
 - Visualization & storytelling  
 
 ---
+
 
 
